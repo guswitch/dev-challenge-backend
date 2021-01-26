@@ -1,0 +1,5 @@
+{
+    "execMap": {
+        "js": "clear && node -r sucrase/register"
+    }
+}
